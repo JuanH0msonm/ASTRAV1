@@ -1,2 +1,0 @@
-# ASTRAV1
-ASTRA-Hack
